@@ -1,0 +1,1 @@
+ccall((:helloworld, "build/libhello_world.so"), Cvoid, ())
